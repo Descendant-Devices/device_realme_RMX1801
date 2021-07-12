@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "Descendant-Devices/kernel_realme_sdm660",
+    "target_path": "kernel/realme/sdm660",
+    "branch": "eas3",
+    "remote": "github"
+  },
+  {
+    "repository" : "Descendant-Devices/vendor_realme_RMX1801",
+    "target_path": "vendor/realme",
+    "branch": "r11",
+    "remote": "github"
+  }
+]
